@@ -1,2 +1,11 @@
 PPS_Java/
 PPS_Cpp/
+
+# 빌드 결과물
+*.out
+*.o
+*.a
+*.so
+*.exe
+
+*.vscode
