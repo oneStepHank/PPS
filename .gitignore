@@ -11,3 +11,6 @@ PPS_Cpp/
 *.vscode
 
 *.zip
+
+# submit file
+sm_*
