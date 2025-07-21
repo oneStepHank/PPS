@@ -1,0 +1,1 @@
+update salary set sex = if(sex = 'm', 'f', 'm') -- salary table에서 sex column 수정하기
